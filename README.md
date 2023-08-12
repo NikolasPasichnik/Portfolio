@@ -9,7 +9,7 @@ Here you will find a description of the projects I've worked on, the start and e
 
 **End Date:** April 2023
 
-**Description:** TO-DO
+**Description:** OnCampus is a web application that allows students to manage their busy schedules and identify time slots where multiple people are available. This website allows its users to personalize their accounts, create groups with friends to generate a common schedule where free time slots are highlighted, as well as better manage their time with an interactive calendar. 
 
 **Tools:** Javascript, React.js, PostgreSQL, Auth0, Docker, Cypress
 
@@ -18,7 +18,7 @@ Here you will find a description of the projects I've worked on, the start and e
 
 **End Date:** January 2023
 
-**Description:** TO-DO
+**Description:** Desertion is a two-player third-person racing game that was developed over the span of a weekend as part of the McGill GameDev Hackathon. The premise of the game is that two aliens managed to escape Area 51, but only one of them can board the escape ship! Each player can purchase obstacles to hinder their opponent's track during the run. They can also purchase powerups to enhance their abilities, such as speed and double jumps. May the player who reaches the alien saucer faster wins! 
 
 **Tools:** C#, Unity, Blender
 
@@ -27,24 +27,15 @@ Here you will find a description of the projects I've worked on, the start and e
 
 **End Date:** December 2022
 
-**Description:** TO-DO
+**Description:** Cabinet of Curiosities consists of a web application that offers a variety of features for the clients and employees of a fictional museum. This website allows the clients of the museum to browse the various artifacts available, donate their personal artifacts, rent out specific objects of the expositions for a duration of time, as well as simply buy tickets to visit the museum on a given day. Along with the features available for clients, the website also allows its staff to deal with the management of the museum, such as dealing with donated or rented artifacts and managing the currently displayed art pieces in its catalog. The manager of the museum can also create employee accounts and schedule them to work on specific days.  
 
-**Tools:** TO-DO
+**Tools:** Java, Spring, Vue.js, Junit, Postman, Mockito, UML, Gradle
 
 ## [MushUrDoom](https://github.com/yu-an-lu/MushUrDoom) :mushroom:
 **Start Date:** October 2022
 
 **End Date:** October 2022
 
-**Description:** MushUrDoom is an interactive browser game that was built over the course of a weekend as part of the McGill AI Society Hackathon. It consists of a questionnaire-type game that guides the player through a series of questions regarding a mushroom they have encountered during a hike in the forest. The player will describe the mushrooms using a variety of its attributes such as colour or shape. Once the questionnaire is completed, a decision tree is used to determine whether this description of a mushroom consists of a poisonous or edible mushroom. [TO-DO]
+**Description:** MushUrDoom is an interactive browser game that was built over the course of a weekend as part of the McGill AI Society Hackathon. It consists of a questionnaire-type game that guides the player through a series of questions regarding a mushroom they have encountered during a hike in the forest. The player will describe the mushrooms using a variety of attributes such as color or shape. Once the questionnaire is completed, a decision tree is used to determine whether this description of a mushroom consists of a poisonous or edible mushroom. The training of the model was done with an extensive CSV file containing a variety of mushrooms, their attributes, and whether they were edible or poisonous. 
 
 **Tools:** Python, JavaScript, Flask, Wix
-
-## [DiveSafe](https://github.com/McGill-ECSE223-Winter2022/group-project--06) :diving_mask:
-**Start Date:** February 2022
-
-**End Date:** April 2022
-
-**Description:** DiveSafe is an application that can be used by the guides, visitors, and administrators of the Atlantis diving site. This app allows visitors to sign up, book diving expeditions with guides, and rent bundles of diving equipment. The management of all the diving trips, guide assignments, and rented equipment can be done from the admin and guide accounts. 
-
-**Tools:** Java, JavaFX, Junit, Cucumber, UML, JSON
