@@ -39,3 +39,30 @@ Here you will find a description of the projects I've worked on, the start and e
 **Description:** MushUrDoom is an interactive browser game that was built over the course of a weekend as part of the McGill AI Society Hackathon. It consists of a questionnaire-type game that guides the player through a series of questions regarding a mushroom they have encountered during a hike in the forest. The player will describe the mushrooms using a variety of attributes such as color or shape. Once the questionnaire is completed, a decision tree is used to determine whether this description of a mushroom consists of a poisonous or edible mushroom. The training of the model was done with an extensive CSV file containing a variety of mushrooms, their attributes, and whether they were edible or poisonous. 
 
 **Tools:** Python, JavaScript, Flask, Wix
+
+## [SimpleShell](https://github.com/NikolasPasichnik/SimpleShell) :computer:
+**Start Date:** September 2023
+
+**End Date:** October 2023
+
+**Description:**
+
+**Tools:**
+
+## [SimpleThreadScheduler](https://github.com/NikolasPasichnik/SimpleThreadScheduler) 
+**Start Date:** September 2023
+
+**End Date:** November 2023
+
+**Description:**
+
+**Tools:**
+
+## [SimpleFileSystem](https://github.com/NikolasPasichnik/SimpleFileSystem) :floppy_disk:
+**Start Date:** November 2023
+
+**End Date:** December 2023
+
+**Description:**
+
+**Tools:**
