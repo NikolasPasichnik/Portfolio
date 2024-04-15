@@ -47,7 +47,7 @@ Here you will find a description of the projects I've worked on, the start and e
 
 **Description:** SimpleShell is a C assignment that was done as part of the McGill Operating Systems course. It consisted of implementing a rudimentary shell using concepts learned in class (parent-child nodes, forking, redirection, and piping). 
 
-**Tools:** C, Make
+**Tools:** C
 
 ## [SimpleThreadScheduler](https://github.com/NikolasPasichnik/SimpleThreadScheduler) :thread:
 **Start Date:** September 2023
@@ -56,7 +56,7 @@ Here you will find a description of the projects I've worked on, the start and e
 
 **Description:** SimpleThreadScheduler is a C assignment that was done as part of the McGill Operating Systems course. It consisted of implementing a threading library using concepts learned in class (race conditions and mutexes), 
 
-**Tools:** C, Make
+**Tools:** C
 
 ## [SimpleFileSystem](https://github.com/NikolasPasichnik/SimpleFileSystem) :floppy_disk:
 **Start Date:** November 2023
