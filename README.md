@@ -2,7 +2,7 @@
 
 Welcome to my Portfolio! 
 
-Here you will find a description of the projects I've worked on, the start and end dates as well as the main tools that were used! 
+Here you will find a description of the projects I've worked on, the start and end dates as well as the main tools that were used!
 
 ## [SimpleFileSystem](https://github.com/NikolasPasichnik/SimpleFileSystem) :floppy_disk:
 **Start Date:** November 2023
@@ -30,6 +30,15 @@ Here you will find a description of the projects I've worked on, the start and e
 **Description:** SimpleShell is a C assignment that was done as part of the McGill Operating Systems course. It consisted of implementing a rudimentary shell using concepts learned in class (parent-child nodes, forking, redirection, and piping). 
 
 **Tools:** C
+
+## [GameOfLife]([https://github.com/NikolasPasichnik/GameOfLife]) 🔲 🔳
+**Start Date:** March 2023
+
+**End Date:** April 2023
+
+**Description:** Game of Life is an ARM Assembly assignment that was done as part of the McGill Computer Organization course. It consisted of implementing the retro Game of Life using ARM Assembly.
+
+**Tools:** ARM Assembly, emulator
 
 ## [OnCampus](https://github.com/ECSE-428-Group-5-W-2023/OnCampus)  :date:
 **Start Date:** February 2023
