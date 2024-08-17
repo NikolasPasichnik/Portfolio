@@ -31,7 +31,7 @@ Here you will find a description of the projects I've worked on, the start and e
 
 **Tools:** C
 
-## [GameOfLife]([https://github.com/NikolasPasichnik/GameOfLife]) 🔲 🔳
+## [GameOfLife](https://github.com/NikolasPasichnik/GameOfLife) 🔲 🔳
 **Start Date:** March 2023
 
 **End Date:** April 2023
